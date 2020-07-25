@@ -2,7 +2,7 @@
 A tip calculating application.
 
 #### Required Features
-- [x] Get intial bill amount 
+- [x] Get initial bill amount 
 - [x] Provide choice for tip percentage (5%-30%)  
 - [x] Calclulate the toatal cost and update tip and total bill
 
