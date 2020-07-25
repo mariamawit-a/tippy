@@ -1,8 +1,8 @@
 # Tippy
 A tip calculating application.
 
-#Language
+## Language
 - Swift
 
-#Platform
+## Platform
 -Xcode
