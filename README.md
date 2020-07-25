@@ -5,4 +5,4 @@ A tip calculating application.
 - Swift
 
 ## Platform
--Xcode
+- Xcode
